@@ -1,4 +1,4 @@
-package com.mylocation;
+package com.mcgrid.antnf.mylocation;
 
 import com.facebook.react.ReactActivity;
 
